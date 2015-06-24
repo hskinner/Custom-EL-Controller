@@ -2230,9 +2230,9 @@ will be further integrated into the Sparkfun Library for other footprints.  It c
 <label x="7.62" y="50.8" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="U1" gate="G$1" pin="PB0(MOSI)"/>
-<wire x1="86.36" y1="91.44" x2="96.52" y2="91.44" width="0.1524" layer="91"/>
-<label x="93.98" y="91.44" size="1.778" layer="95"/>
+<pinref part="U1" gate="G$1" pin="PB3(ADC3)"/>
+<wire x1="86.36" y1="83.82" x2="91.44" y2="83.82" width="0.1524" layer="91"/>
+<label x="88.9" y="83.82" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="EN2" class="0">
@@ -2242,9 +2242,9 @@ will be further integrated into the Sparkfun Library for other footprints.  It c
 <label x="7.62" y="45.72" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="U1" gate="G$1" pin="PB1(MISO)"/>
-<wire x1="86.36" y1="88.9" x2="96.52" y2="88.9" width="0.1524" layer="91"/>
-<label x="93.98" y="88.9" size="1.778" layer="95"/>
+<pinref part="U1" gate="G$1" pin="PB4(ADC2)"/>
+<wire x1="86.36" y1="81.28" x2="91.44" y2="81.28" width="0.1524" layer="91"/>
+<label x="88.9" y="81.28" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="N$8" class="0">
